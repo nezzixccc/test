@@ -1,2 +1,1 @@
-print("Hello, W1orld!")
-ы
+print("main.py ")

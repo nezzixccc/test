@@ -12,4 +12,4 @@ art = """
                                                                             | $$      
                                                                             |__/      
 """
-prit(art)
+print(art)
